@@ -1,0 +1,33 @@
+body{
+
+    color: blue;
+}
+ul{
+    font-size: medium;
+    text-align: center;
+    text-decoration-color: aliceblue;
+    color: white;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+
+.flex2 {
+    justify-content: space-around;
+  }
+
+  h1,h2,h3,h4,h5,h6,a{
+    margin:0;
+  }
+  h1,h3{
+    text-transform: uppercase;
+  }
+  .text-back{
+     color: rgb(2, 2, 75);
+  }
+  .contact-image {
+    height:170px;
+    width:100%;
+    background-size:cover;
+  }
